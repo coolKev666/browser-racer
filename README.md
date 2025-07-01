@@ -12,6 +12,9 @@ git clone https://github.com/coolKev666/browser-racer.git
 
 cd browser-racer
 
+# install node if haven't
+https://nodejs.org/en/download
+
 # Install dependencies
 npm install
 
